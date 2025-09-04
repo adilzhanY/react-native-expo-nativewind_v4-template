@@ -1,6 +1,6 @@
 # Expo React Native Template with Typescript and Nativewind v4
 
-Latest release version as of September 4, 2025
+Latest release version as of September 4, 2025.
 
 ## Dependencies:
 

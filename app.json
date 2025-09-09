@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "uber_react_native",
-    "slug": "uber_react_native",
+    "name": "template",
+    "slug": "template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
